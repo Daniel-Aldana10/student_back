@@ -4,7 +4,7 @@ This is a simple backend project built with **Spring Boot**, using **MongoDB** f
 
 ---
 
-## ech Stack
+## Stack
 
 - Java 17+
 - Spring Boot 3.x
@@ -15,7 +15,7 @@ This is a simple backend project built with **Spring Boot**, using **MongoDB** f
 
 ---
 
-##Project Purpose
+## Project Purpose
 
 The main goal of this backend is to:
 
